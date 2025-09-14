@@ -1,0 +1,68 @@
+symptom_text,aqi,temperature,condition
+"High fever, severe headache, pain behind the eyes, joint and muscle pain",150,38.5,DENGUE_FEVER
+"Sudden high fever with rash and severe joint pain",120,39.0,CHIKUNGUNYA
+"fever, cough, sore throat, running nose, body aches",200,37.8,INFLUENZA
+"chest pain, shortness of breath, pain in left arm",250,36.5,HEART_ATTACK_SYMPTOMS
+"Fever, dry cough, tiredness, loss of taste or smell",180,38.0,COVID_SYMPTOMS
+"fever chills and sweats, headache, nausea and vomiting",90,39.5,MALARIA
+"Fatigue and yellowing of skin and eyes, dark urine",110,37.5,JAUNDICE
+"itchy rash with fluid-filled blisters all over body starting on torso",95,38.0,CHICKENPOX
+"High fever that increases daily, headache, weakness, stomach pain",130,40.0,TYPHOID
+"Vaginal bleeding, severe abdominal pain during pregnancy",160,37.0,PREGNANCY_EMERGENCY
+"No specific issue, just a regular checkup",50,36.9,GENERAL_WELLNESS
+"feeling great today, no problems",45,37.0,GENERAL_WELLNESS
+"I have a terrible headache and my joints are aching, high fever too",165,38.8,DENGUE_FEVER
+"My whole body is in pain, especially my joints. The fever is unbearable.",135,39.2,CHIKUNGUNYA
+"flu-like symptoms, everything hurts and I have a running nose",210,37.9,INFLUENZA
+"feeling a tight pressure in my chest and my left arm feels numb",260,36.6,HEART_ATTACK_SYMPTOMS
+"can't smell my food and I have a persistent dry cough",190,38.1,COVID_SYMPTOMS
+"Feeling very cold then very hot, and I threw up this morning",100,39.8,MALARIA
+"My skin looks yellow and I feel tired all the time",125,37.6,JAUNDICE
+"These blisters are so itchy and they are spreading from my chest",105,38.2,CHICKENPOX
+"My fever just keeps getting higher every day, and my stomach hurts badly",145,40.2,TYPHOID
+"I am pregnant and experiencing sharp pains and some bleeding",175,37.1,PREGNANCY_EMERGENCY
+"mild fever and body ache",140,37.5,INFLUENZA
+"slight cough and feeling tired",195,37.7,COVID_SYMPTOMS
+"muscle aches and a splitting headache",155,38.3,DENGUE_FEVER
+"The pain in my knuckles is extreme, can't even make a fist",128,38.9,CHIKUNGUNYA
+"shortness of breath after walking up stairs, discomfort in chest",240,36.8,HEART_ATTACK_SYMPTOMS
+"recurring fever and chills every other day",98,39.0,MALARIA
+"eyes are yellow and urine is very dark",115,37.3,JAUNDICE
+"new spots appearing on my back and arms, they are very itchy",102,37.9,CHICKENPOX
+"persistent high fever for a week now",138,39.5,TYPHOID
+"cramping and spotting in my first trimester",168,37.2,PREGNANCY_EMERGENCY
+"feeling fine, no symptoms",60,36.8,GENERAL_WELLNESS
+"Aches and pains all over, plus a runny nose.",188,38.2,INFLUENZA
+"Lost my sense of smell completely.",220,37.9,COVID_SYMPTOMS
+"Severe pain behind my eyes and a skin rash.",170,39.1,DENGUE_FEVER
+"My joints feel like they are on fire.",142,39.5,CHIKUNGUNYA
+"A squeezing sensation in my chest.",270,36.7,HEART_ATTACK_SYMPTOMS
+"Episodes of shaking chills followed by high fever.",105,39.9,MALARIA
+"The whites of my eyes have turned yellow.",133,37.8,JAUNDICE
+"Rash that turned into itchy, fluid-filled blisters.",112,38.4,CHICKENPOX
+"Stomach pain and a fever that won't break.",152,40.1,TYPHOID
+"Unexpected bleeding during the third trimester of pregnancy.",182,37.0,PREGNANCY_EMERGENCY
+"I feel healthy and have no complaints.",55,37.1,GENERAL_WELLNESS
+"bodyache and a bad cold",160,37.6,INFLUENZA
+"slight fever and I can't taste anything",215,38.0,COVID_SYMPTOMS
+"high temperature and a rash on my arms",162,38.6,DENGUE_FEVER
+"pain in my wrists and ankles is debilitating",133,39.1,CHIKUNGUNYA
+"discomfort in my jaw and back, feeling breathless",255,36.9,HEART_ATTACK_SYMPTOMS
+"sweating at night and feeling very weak",108,39.3,MALARIA
+"skin is itchy and has a yellow tint",128,37.7,JAUNDICE
+"blisters that crust over",118,38.1,CHICKENPOX
+"constipation and a high, sustained fever",148,39.8,TYPHOID
+"severe nausea and cramping in my second trimester",172,37.3,PREGNANCY_EMERGENCY
+"all good, just a routine query",65,36.9,GENERAL_WELLNESS
+"headache, fever, and muscle soreness",175,38.1,INFLUENZA
+"a new continuous cough has started",225,37.8,COVID_SYMPTOMS
+"painful joints and a high fever, it's very sudden",148,39.3,CHIKUNGUNYA
+"skin rash that looks like small red spots",178,38.9,DENGUE_FEVER
+"pressure in chest that comes and goes",265,36.8,HEART_ATTACK_SYMPTOMS
+"feeling weak and having intense sweating episodes",111,39.6,MALARIA
+"appetite loss and yellowish skin",136,37.9,JAUNDICE
+"spots on my face and trunk",122,38.3,CHICKENPOX
+"weakness and a fever that is worse in the afternoons",158,39.9,TYPHOID
+"contractions and pressure before 37 weeks",188,37.1,PREGNANCY_EMERGENCY
+"no issues to report",70,37.0,GENERAL_WELLNESS
+

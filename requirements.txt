@@ -1,0 +1,6 @@
+Flask
+twilio
+numpy
+tensorflow
+geopy
+requests
