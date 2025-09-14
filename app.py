@@ -1,5 +1,3 @@
-# app.py (FINAL, VERIFIED, MONOLITHIC APP RUNNER)
-# This single file contains all application logic to prevent import errors.
 
 import configparser
 import logging
@@ -17,9 +15,6 @@ from geopy.distance import geodesic
 import uuid
 from datetime import datetime
 
-# ==============================================================================
-# CLASS DEFINITIONS (All our logic is self-contained here)
-# ==============================================================================
 
 class SmartChunkManager:
     """ Manages the creation and storage of 'SmartChunks' of data. """
