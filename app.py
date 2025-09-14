@@ -177,9 +177,7 @@ class EmergencyHandler:
         self.notification_handler.send_message(nearest_hospital['phone'], alert_message)
         self.notification_handler.send_message(f"whatsapp:{emergency_contact}", alert_message)
 
-# ==============================================================================
-# FLASK APPLICATION LOGIC
-# ==============================================================================
+
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 app = Flask(__name__)
